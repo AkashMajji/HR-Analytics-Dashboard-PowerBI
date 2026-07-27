@@ -124,7 +124,6 @@ HR-Analytics-Dashboard
 │
 ├── HR_Analytics (final).pbix
 ├── README.md
-└── LICENSE
 ```
 # 📸 Dashboard Highlights
 
