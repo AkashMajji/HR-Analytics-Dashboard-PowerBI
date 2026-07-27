@@ -127,27 +127,6 @@ HR-Analytics-Dashboard
 ├── README.md
 └── LICENSE
 ```
-
----
-
-# 🚀 Getting Started
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/AkashMajji/HR-Analytics-Dashboard.git
-```
-
-### 2. Open the project
-
-Open the `.pbix` file using **Microsoft Power BI Desktop**.
-
-### 3. Explore the Dashboard
-
-Use the interactive filters and visualizations to analyze HR metrics and workforce trends.
-
----
-
 # 📸 Dashboard Highlights
 
 - Executive Summary
