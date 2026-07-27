@@ -141,6 +141,20 @@ HR-Analytics-Dashboard
 
 ---
 
+# 💼 Skills Demonstrated
+
+- Power BI
+- Microsoft Excel
+- Power Query
+- DAX
+- Dashboard Design
+- Business Analytics
+- Data Visualization
+- HR Analytics
+- Data Storytelling
+
+---
+
 # 🎯 Learning Outcomes
 
 This project demonstrates:
@@ -153,19 +167,5 @@ This project demonstrates:
 - Business Intelligence Reporting
 - HR Data Analysis
 - Data Visualization Best Practices
-
----
-
-# 💼 Skills Demonstrated
-
-- Power BI
-- Microsoft Excel
-- Power Query
-- DAX
-- Dashboard Design
-- Business Analytics
-- Data Visualization
-- HR Analytics
-- Data Storytelling
 
 ---
