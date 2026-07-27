@@ -28,7 +28,7 @@ The dashboard enables HR professionals and business leaders to monitor key workf
 # 🖥️ Dashboard Preview
 
 <p align="center">
-<img src="Images/HR-Analytics-Dashboard-Overview.png" width="100%" alt="HR Analytics Dashboard"/>
+<img src="Images/HR Analytics Dashboard Overview.png" width="100%" alt="HR Analytics Dashboard"/>
 </p>
 
 ---
