@@ -64,14 +64,14 @@ This dashboard helps answer questions such as:
 
 # 📌 Key Performance Indicators (KPIs)
 
-| KPI            | Description                                   |
-| -------------- | --------------------------------------------- |
-| Employee Count | Total number of employees                     |
-| Attrition      | Total employees who left                      |
-| Attrition Rate | Percentage of employee attrition              |
-| Average Age    | Average employee age                          |
-| Average Salary | Average employee salary                       |
-| Average Years  | Average years employees stayed in the company |
+| KPI            | Description                                    |
+| -------------- | ---------------------------------------------- |
+| Total Employee | Total number of employees                      |
+| Attrition      | Total employees who left                       |
+| Attrition Rate | Percentage of employee attrition               |
+| Average Age    | Average employee age                           |
+| Average Salary | Average employee salary                        |
+| Average Tenure | Average tenure employees stayed in the company |
 
 ---
 
