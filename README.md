@@ -1,4 +1,4 @@
-<h1 align="center">📊 HR Analytics Dashboard</h1>
+<h1 align="center">📊 Employee Attrition Dashboard</h1>
 
 <p align="center">
 An interactive <strong>Power BI Dashboard</strong> designed to analyze workforce metrics, employee attrition, salary distribution, and HR trends to support data-driven decision-making.
@@ -16,7 +16,7 @@ An interactive <strong>Power BI Dashboard</strong> designed to analyze workforce
 
 # 📌 Project Overview
 
-The **HR Analytics Dashboard** is an interactive Power BI project that provides actionable insights into employee attrition, workforce demographics, salary trends, and job roles.
+The **Employee Attrition Dashboard** is an interactive Power BI project that provides actionable insights into employee attrition, workforce demographics, salary trends, and job roles.
 
 The dashboard enables HR professionals and business leaders to monitor key workforce metrics, identify attrition patterns, and support strategic decision-making through interactive visualizations.
 
@@ -25,7 +25,7 @@ The dashboard enables HR professionals and business leaders to monitor key workf
 # 🖥️ Dashboard Preview
 
 <p align="center">
-<img src="Images/HR Analytics Dashboard Overview.png" width="100%" alt="HR Analytics Dashboard"/>
+<img src="Images/Employee Attrition Dashboard.png" width="100%" alt="Employee Attrition Dashboard"/>
 </p>
 
 ---
@@ -64,14 +64,14 @@ This dashboard helps answer questions such as:
 
 # 📌 Key Performance Indicators (KPIs)
 
-| KPI | Description |
-|------|-------------|
-| Employee Count | Total number of employees |
-| Attrition | Total employees who left |
-| Attrition Rate | Percentage of employee attrition |
-| Average Age | Average employee age |
-| Average Salary | Average employee salary |
-| Average Years | Average years employees stayed in the company |
+| KPI            | Description                                   |
+| -------------- | --------------------------------------------- |
+| Employee Count | Total number of employees                     |
+| Attrition      | Total employees who left                      |
+| Attrition Rate | Percentage of employee attrition              |
+| Average Age    | Average employee age                          |
+| Average Salary | Average employee salary                       |
+| Average Years  | Average years employees stayed in the company |
 
 ---
 
@@ -123,6 +123,7 @@ HR-Analytics-Dashboard
 ├── HR_Analytics (final).pbix
 ├── README.md
 ```
+
 # 📸 Dashboard Highlights
 
 - Executive Summary
