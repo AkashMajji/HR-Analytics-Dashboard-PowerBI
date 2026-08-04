@@ -122,7 +122,7 @@ Employee-Attrition-Dashboard-PowerBI
 ├── .gitignore
 ├── Employee_Attrition_Dashboard.pbix
 ├── LICENSE
-├── README.m
+├── README.md
 ```
 
 # 📸 Dashboard Highlights
