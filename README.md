@@ -118,7 +118,7 @@ The dashboard is built using an HR Analytics dataset containing employee informa
 HR-Analytics-Dashboard
 │
 ├── Images
-│   └── HR-Analytics-Dashboard-Overview.png
+│   └── Employee Attrition Dashboard.png
 │
 ├── HR_Analytics (final).pbix
 ├── README.md
