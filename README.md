@@ -115,12 +115,13 @@ The dashboard is built using an HR Analytics dataset containing employee informa
 # 📁 Repository Structure
 
 ```
-HR-Analytics-Dashboard
+Employee-Attrition-Dashboard-PowerBI
 │
 ├── Images
 │   └── Employee Attrition Dashboard.png
-│
-├── HR_Analytics (final).pbix
+├── .gitignore
+├── Employee_Attrition_Dashboard.pbix
+├── LICENSE
 ├── README.md
 ```
 
